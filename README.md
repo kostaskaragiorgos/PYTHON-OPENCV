@@ -2,6 +2,12 @@
 
 <p> Open cv learning path </p>
 
+## FILES
+
+<ul>
+ <li> .py files (toy examples to learn the open cv lib) </li>
+</ul>
+
 ## Dependencies
 
  <ul>
